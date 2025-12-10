@@ -61,11 +61,12 @@ Você pode conferir meus repositórios clicando [aqui](https://github.com/caroli
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 Estatísticas do GitHub
 
-<img height="110" src="https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=tokyonight" />
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=outrun&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&langs_count=8&theme=tokyonight" />
+[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&langs_count=8&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
       
