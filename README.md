@@ -63,12 +63,9 @@ Você pode conferir meus repositórios clicando [aqui](https://github.com/caroli
 
 ### 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carolinesantosti&show_icons=true&theme=outrun&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinesantosti&layout=compact&langs_count=8&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+![GitHub followers](https://img.shields.io/github/followers/carolinesantosti?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/carolinesantosti?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-automatic-blue?style=for-the-badge)
       
 ---
 
